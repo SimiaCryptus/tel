@@ -1,16 +1,7 @@
 {
     "id": "tel",
     "title": "The Extension Ladder: One Way to Watch Number Systems Grow",
-    "description": "A logical reconstruction of the generative mechanism behind number systems: exploit a structure's affordances, force an element outside the set, extend, and repeat — from the integers up through the complex plane, with side branches into modular arithmetic, wavelets, and the p-adics.",
-    "tags": [
-        "mathematics",
-        "number-theory",
-        "field-theory",
-        "transcendence",
-        "p-adic",
-        "philosophy-of-math",
-        "essay"
-    ],
+    "pitch": "",
     "category": "essay",
     "href": "index.html",
     "readme": "README.md",
